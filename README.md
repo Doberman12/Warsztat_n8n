@@ -1,5 +1,6 @@
 # Warsztat_n8n
 
+## **DISCORD** - https://discord.gg/wBrp6kHn
 
 ## Instrukcja Docker
 
