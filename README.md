@@ -10,7 +10,7 @@
 
 ### 3. Odpalamy wiersz poleceń
 
-### 4. W wierszu poleceń przechodzimy do folderu z plikiem 'docker-compose.yaml' (komenda 'cd')
+### 4. W wierszu poleceń przechodzimy do folderu z plikiem `docker-compose.yaml` (komenda `cd`)
 
 ### 5. Wpisujemy komende `docker compose up -d`
 
